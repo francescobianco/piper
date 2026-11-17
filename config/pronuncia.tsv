@@ -1,0 +1,6 @@
+# Dizionario di pronuncia per Piper (voce italiana it_IT-paola-medium).
+# Una voce per riga: parola<TAB>grafia da leggere. Vale per la parola intera, senza distinguere maiuscole.
+# Le voci più lunghe hanno la precedenza: "PC portatile" vince su "PC".
+# Prova: bin/pronuncia "testo"   (stampa il testo dopo il dizionario e i fonemi di espeak-ng, se c'è)
+# Regole trovate a orecchio: vedi docs/PRONUNCIA.md
+coppia	còpp-pia

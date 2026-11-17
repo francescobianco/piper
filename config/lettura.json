@@ -1,0 +1,5 @@
+{
+  "length_scale": 1.25,
+  "sentence_silence": 0.35,
+  "_note": "length_scale > 1 rallenta la voce; sentence_silence sono i secondi di pausa tra le frasi. Valori scelti a orecchio nel progetto speaker (docs/PRONUNCIA.md)."
+}
